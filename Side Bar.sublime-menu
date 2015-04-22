@@ -1,0 +1,8 @@
+[
+    {"caption": "-"},
+    {"caption": "StarCounter",
+        "children": [
+            { "caption": "Replace", "command": "star_counter" }
+        ]
+    }
+]
