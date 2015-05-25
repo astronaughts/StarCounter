@@ -1,4 +1,4 @@
 StarCounter
 =================
 
-How many stars would you give us?
+How many stars would you give us? * * *
